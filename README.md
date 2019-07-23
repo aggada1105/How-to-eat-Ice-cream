@@ -1,55 +1,73 @@
-# Howtoeaticecream
 <style>
   body {
   padding-top: 80px;
   text-align: center;
   font-family: monaco, monospace;
-  background:  50%;
+  background: white;
   background-size: cover;
 }
 h1, h2 {
-  display: inline-block;
-  background: #fff;
+  display: inline;
+  background: pink;
 }
 h1 {
-  font-size: 50;
+  font-size: 50px
+  
 }
 h2 {
-  font-size: 20px;
+  font-size: 50px;
 }
 span {
-  background: #fd0;
+  background: #336699;
 }
+h3{
+  background: white;
+  font-size: 50;
+  color: pink
+}
+h4 {
+  background: white;
+  font-size: 50;
+  color: pink
+}
+h5 {
+  background: white;
+  font-size: 50;
+  color: pink
+}
+h6 {
+  font-size: 50;
+  color: pink;
+  background: white
+}
+p {
+  Background: white;
+  color: pink;
+  font-size: 50
+}
+h8 {
+  font-size: 50;
+  background: white;
+  color: pink
+}
+li {
+  Color: pink;
+  font-size: 50
 </style>
-<html>
-  <head>
-  <title>How to eat ice Cream</title>  
-</head>
-<body>
-<h1><i>How to eat ice Cream: For Beginners and People who Refuse to eat ice cream Correctly</i></h1>
-<h2>Imagine this. You're eating ice cream with friends, and you see one of your friends bite off the entire top of the cone. Immediatly you feel a cringe inside of you. This guide will help those people, who just don't know how to eat ice cream.</h2>
+<h1>How to eat ice cream Correctly</h1>
+<h3>This is how to eat ice cream without everyone around you cringing with pain</h3>
+<h4>Step one: Do not, under any circumstanses, use your teeth.</h4> 
+<h5>Do not: eat the entire cone in one bight</h5>
+<h6>Do not: flip the cone upside down and eat it like a sandwich or cupcake</h6>
+<p>Now that you know what not to do, let's talk about what you should do.</p>
+<li>If you have to bite the ice cream at all, wrap your lips around your teeth. It doesn't matter if you get a moustache, you can lick it off later.</li>
 <p></p>
-<li><b></b>Step one of many</b>: NEVER use your teeth to bite the ice cream. You may use your teeth to eat the cone, but DO NOT use the teeth to bite ice cream.</li>
+<li>Using your tongue is only acceptible when licking off the sides so stop the melted stuff from dripping.</li>
 <p></p>
-<li> Two: Never ever ever eat the entire cone in one bite. That is gross and weird and your mouth would be huge.</li>
+<li>You can only flip your cone upside down in a bowl if you are in a hurry and need to move, or if you are 4 and can't be trusted with a full cone.'</li>
 <p></p>
-<li>Three: Do not break the cone and eat the ice cream like a cupcake or sandwich.</li>
+<li>DO NOT eat your ice cream upside down unless you are Harry Potter because it will fall in your face and then fall to the floor. Then you won't have any ice cream and will be sad.</li>
 <p></p>
-<li>Four: DO NOT BREAK THE BOTTOM OF THE CONE!!</li>
+<li>Grape ice cream will never be a flavor.</li>
 <p></p>
-<li>Five: GRAPE WILL NEVER BE AN ICE CREAM FLAVOR!!</li>
-<p></p>
-<li>Six: Never eat your ice cream upside down. You are not Harry Potter and your ice cream will fall. You will be sad.</li>
-<p></p>
-<li>Seven: Even if you are in a relationship, sharing an ice cream cone is never okay. It's gross.</li>
-<h3> Now that you know what not to do, let's discuss what to do.</h3>
-<p></p>
-<li> One: Make sure you are only ever using your tongue to lick the sides of the ice cream to make sure nothing drips.</li>
-<p></p>
-<li>Two: If you ever need to use your teeth at all, wrap your lips around them to protect your teeth. It doesn't matter if you have a moustache, you can always lick it off.'</li>
-<p></p>
-<li>Three: Eating your ice cream in a bowl will only be allowed when your a four year old or if you are in a hurry.</li>
-<p></p>
-<h4>This is all the information that I can gift to you. If you can bite into ice cream without your teeth being bothered, then you are a superhuman and a monster and cannot be helped. I hope this can help even the most troubled souls, but if not, I apologize sincerely.
-</body>
-</html>
+<h7></h7>
