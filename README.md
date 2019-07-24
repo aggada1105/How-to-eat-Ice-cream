@@ -56,8 +56,7 @@ li {
 </style>
 <h1>How to eat ice cream Correctly</h1>
 <h3>This is how to eat ice cream without everyone around you cringing with pain</h3>
-<h4>Step one: Do not, under any circumstanses, use your teeth.</h4> <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj2koeo283jAhWWWM0KHeGKDIEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.today.com%2Ffood%2Fdo-you-bite-or-lick-your-ice-cream-photo-sparks-t157426&psig=AOvVaw22VNepI40-K4HLD3d2wANo&ust=1564063027294621"/>
-<h7>Here is a picture, showing you what not to do.</h7>
+<h4>Step one: Do not, under any circumstanses, use your teeth.</h4>
 <h5>Do not: eat the entire cone in one bite</h5>
 <h6>Do not: flip the cone upside down and eat it like a sandwich or cupcake</h6>
 <p>Now that you know what not to do, let's talk about what you should do.</p>
@@ -68,4 +67,6 @@ li {
 <li>You can only flip your cone upside down in a bowl if you are in a hurry and need to move, or if you are 4 and can't be trusted with a full cone.'</li>
 <p></p>
 <li>DO NOT eat your ice cream upside down unless you are Harry Potter because it will fall in your face and then fall to the floor. Then you won't have any ice cream and will be sad.</li>
+<p></p>
+<h8>That is all the information that I can give you. If you are someone that bites their ice cream, then there is no help for you and you are a monster. </h8>
 <p></p>
