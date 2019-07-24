@@ -56,8 +56,9 @@ li {
 </style>
 <h1>How to eat ice cream Correctly</h1>
 <h3>This is how to eat ice cream without everyone around you cringing with pain</h3>
-<h4>Step one: Do not, under any circumstanses, use your teeth.</h4> 
-<h5>Do not: eat the entire cone in one bight</h5>
+<h4>Step one: Do not, under any circumstanses, use your teeth.</h4> <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj2koeo283jAhWWWM0KHeGKDIEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.today.com%2Ffood%2Fdo-you-bite-or-lick-your-ice-cream-photo-sparks-t157426&psig=AOvVaw22VNepI40-K4HLD3d2wANo&ust=1564063027294621"/>
+<h7>Here is a picture, showing you what not to do.</h7>
+<h5>Do not: eat the entire cone in one bite</h5>
 <h6>Do not: flip the cone upside down and eat it like a sandwich or cupcake</h6>
 <p>Now that you know what not to do, let's talk about what you should do.</p>
 <li>If you have to bite the ice cream at all, wrap your lips around your teeth. It doesn't matter if you get a moustache, you can lick it off later.</li>
@@ -68,6 +69,3 @@ li {
 <p></p>
 <li>DO NOT eat your ice cream upside down unless you are Harry Potter because it will fall in your face and then fall to the floor. Then you won't have any ice cream and will be sad.</li>
 <p></p>
-<li>Grape ice cream will never be a flavor.</li>
-<p></p>
-<h7></h7>
